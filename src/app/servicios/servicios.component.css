@@ -1,0 +1,19 @@
+.servicesContainer{
+
+}
+
+.nameContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 40vh;
+    background-image: url("https://compossar.es/wp-content/uploads/2019/01/Grabado-laser-tarragona-madera-vidrio-compossar.jpg");
+    background-position-y: 70%;
+    background-position-x: top;
+}
+
+.nameContainer h1{
+    font-size: 100px;
+    color: #ffffff;
+}
